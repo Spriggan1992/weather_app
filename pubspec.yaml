@@ -10,8 +10,14 @@ dependencies:
   flutter:
     sdk: flutter
 
+  loading: ^1.0.2
+  http: ^0.12.1
   cupertino_icons: ^0.1.2
   geolocator: ^5.3.2+2
+  flutter_spinkit: ^4.1.2+1
+  # new_geolocation:
+  #   git:
+  #     url: https://github.com/alfanhui/new_geolocation
 
 dev_dependencies:
   flutter_test:
